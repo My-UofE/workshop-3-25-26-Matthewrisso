@@ -14,7 +14,7 @@ public class NumbersInSpanish {
                 spanish_number = "tres";
                 break;
             case 4:
-                spanish_number = "quatro";
+                spanish_number = "cuatro";
                 break;
             case 5:
                 spanish_number = "cinco";
